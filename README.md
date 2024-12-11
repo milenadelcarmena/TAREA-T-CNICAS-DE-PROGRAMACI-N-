@@ -1,4 +1,4 @@
-# TAREA-T-CNICAS-DE-PROGRAMACI-N-
+# TAREA-T-CNICAS-DE-PROGRAMACION DE ABSTRACCIÓN 
 Técnicas de programación Abstracción, Encapsulación, Herencia, Polimorfismo
 Explico el Código. 
 Clase Abstracta Dispositivo, define dos métodos abstractos, encender y apagar, que deben ser implementados por cualquier clase que herede de Dispositivo.
